@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/deeprodge/fraud_detection_rapids">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frapids.ai%2F&psig=AOvVaw0hpfajdbfubyW5zkYXc-XI&ust=1696090215773000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMitucia0IEDFQAAAAAdAAAAABAE" alt="Logo" height="80">
+    <img src="https://i.imgur.com/aOgJ8G3.png" alt="Logo" height="80">
   </a>
 
   <h2 align="center">Fraud Detection using RAPIDS</h2>
