@@ -70,12 +70,12 @@
 
 <p>
 
-This project involved building a GPU-accelerated machine learning pipeline for fraud detection using RAPIDS and XGBoost. By leveraging GPUs for data preprocessing and modeling, it achieved 22x speedup over Pandas and Scikit-Learn on CPUs. The XGBoost model trained on GPUs obtained 0.843 PR_AUC on the IEEE-CIS Fraud Detection benchmark dataset.
+This project involved building a GPU-accelerated machine learning pipeline for fraud detection using RAPIDS and XGBoost. By leveraging GPUs for data preprocessing and modeling, it achieved 22x speedup over Pandas and Scikit-Learn on CPUs. The XGBoost model trained on GPUs obtained 0.843 PR_AUC on the IEEE-CIS Fraud Detection benchmark dataset.</p>
 <img src="preprocessing.png" alt="Logo" height="400">
 <img src="training.png" alt="Logo" height="400">
 <img src="inference.png" alt="Logo" height="400">
 
-</p>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
